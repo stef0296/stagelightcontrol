@@ -1,0 +1,50 @@
+ul {
+	list-style: none;
+	margin: 0px;
+	padding: 20px;
+}
+
+li {
+	margin: 0px;
+	padding: 0px;
+}
+
+li,
+a {
+	transition: all 0.5s;
+}
+
+a {
+	display: block;
+	position: relative;
+	width: 100%;
+}
+li {
+	color: blue;
+	text-decoration: none;
+}
+li a {
+	display: block;
+	text-decoration: none;
+}
+
+li:hover {
+	background-color: #333;
+	color: #fff;
+}
+
+li a:hover {
+	text-decoration: none;
+	color: #fff;
+}
+
+.last {
+	display: none;
+}
+
+#playnext {
+	z-index: 2;
+	color: #fff;
+	background-color: #337ab7;
+	border-color: #337ab7;
+}
