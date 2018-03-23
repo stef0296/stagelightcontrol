@@ -51,7 +51,7 @@ print """
 <html>
 <body>
     <center>
-    <h2> LightShowPi Web Controls </h2>
+    <h2> Web Controls </h2>
     <h3> %s uploaded </h3>
     <form method="post" action="web_controls.cgi">
     <input id="playlist" type="submit" value="Back">

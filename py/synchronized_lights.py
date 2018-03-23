@@ -1,13 +1,5 @@
 #!/usr/bin/env python
-#
-# Licensed under the BSD license.  See full license in LICENSE file.
-# http://www.lightshowpi.org/
-#
-# Author: Todd Giles (todd@lightshowpi.org)
-# Author: Chris Usey (chris.usey@gmail.com)
-# Author: Ryan Jennings
-# Author: Paul Dunn (dunnsept@gmail.com)
-# Author: Tom Enos (tomslick.ca@gmail.com)
+
 
 """Play any audio file and synchronize lights to the music
 

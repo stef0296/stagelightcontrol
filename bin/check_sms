@@ -1,9 +1,4 @@
 #!/bin/bash
-#
-# Check for new sms messages once every 15 seconds.
-#
-# Author: Todd Giles (todd.giles@gmail.com)
-# Modifications: Chris Usey (chris.usey@gmail.com), Sean Millar (sean.millar@gmail.com)
 
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
